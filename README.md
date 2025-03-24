@@ -127,10 +127,4 @@ Pull Requests e sugestões são bem-vindas!
 
 ---
 
-## 📄 Licença
-
-Este projeto está licenciado sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
-
----
-
 ## ✨ Feito com dedicação no DecolaTech 🚀
